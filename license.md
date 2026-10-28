@@ -157,4 +157,4 @@ and a missing Visual C++ runtime.
 
 ---
 
-*Cyberpunk 2077 · Updated 2026-10-27 · Shared under the MIT License*
+*Cyberpunk 2077 · Updated 2026-10-28 · Shared under the MIT License*
